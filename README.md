@@ -1,7 +1,12 @@
+<div align="center">
+  <h1>
+    UAD Plugins Tool v2.4
+  </h1>
+</div>
 
----------------------
-UAD Plugins Tool v2.4
----------------------
+<p align="center">
+<strong>[macOS 27 Beta testing is underway!]</strong>
+</p>
 
 <p align="center">
   <a href="https://shop.ryansummer.com/p/uad-plugins-tool/">
