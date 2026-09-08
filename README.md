@@ -1,12 +1,8 @@
 <div align="center">
   <h1>
-    UAD Plugins Tool v2.4
+    UAD Plugins Tool v2.5
   </h1>
 </div>
-
-<p align="center">
-<strong>[macOS 27 Beta testing is underway!]</strong>
-</p>
 
 <p align="center">
   <a href="https://shop.ryansummer.com/p/uad-plugins-tool/">
@@ -112,8 +108,8 @@ Option 6) 📚 Resources<br>
 
 <div align="center">
   Latest Version<br>
-  v2.4<br>
-  SHA-256: 257742babdc2ccc767b5029b34020791d2a147c7ea74d440e6fda5e3df4473d9<br>
+  v2.5<br>
+  SHA-256: dc62073ed5c8868e4014a1e5f46f0e6d3104d1ba28a8094293d812a924b8de5d<br>
 </div>
 
 <br>
@@ -125,9 +121,9 @@ Option 6) 📚 Resources<br>
 
 Tested on:
 
-✅ macOS Yosemite through Tahoe 26.5.2
+✅ macOS Yosemite through Golden Gate 27.0 (Beta 8)
 
-✅ UAD Software v9.x.x through v11.9.0
+✅ UAD Software v9.x.x through v12.0.0
 
 ✅ Intel & Apple Silcon
 
@@ -222,7 +218,7 @@ function prep() {
     done
 }
 
-prep /Users/YOURUSERNAME/Downloads/UAD_Plugins_Tool_v2.4.command
+prep /Users/YOURUSERNAME/Downloads/UAD_Plugins_Tool_v2.5.command
 ```
 
 3. Type your password and hit Enter again (password will be invisible).
@@ -275,7 +271,7 @@ Once finished, it will display "✅ Done" along with a summary of the files remo
 
 🔄 Updating UAD Plugins Tool
 
-1. Run the NEW UAD_Plugins_Tool_2.4.command file.
+1. Run the NEW UAD_Plugins_Tool_2.5.command file.
 2. Choose option 4. '↪️ Import Preferences'.
 3. Drag your OLD UAD_Plugins_Tool*.command file onto the terminal window and press Enter.
 
@@ -315,15 +311,15 @@ BackupDrive/Unused_Plugins/VST3/Universal Audio/UAD *.vst3 --> '/Library/Audio/P
 📚 UAD Resources
 
 
-Latest UAD Software v11.8.3 Direct Download:
+Latest UAD Software v12.0.0 Direct Download:
 ```
 <img width="745" height="466" alt="0  UAD Plugins Tool Main Menu" src="https://github.com/user-attachments/assets/5d0148d3-4463-4059-a9fd-62f73000092a" />
 <img width="745" height="466" alt="0  UAD Plugins Tool Main Menu" src="https://github.com/user-attachments/assets/fb9c24e3-a8d1-4c9a-b8dc-90ce7e6a4fea" />
-https://builds.uaudio.com/apps/uad2/UAD_11_9_0_515.pkg
+https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg
 ```
 Previous UAD Software versions:
 ```
-https://help.uaudio.com/hc/en-us/articles/215267203-UAD-Software-Archives#h_01H9V0DA4FN4W1HE84V40V3WJ7
+https://help.uaudio.com/hc/en-us/articles/215267203-UAD-Software-Archives
 ```
 Release Notes:
 ```
