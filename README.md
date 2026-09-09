@@ -313,8 +313,6 @@ BackupDrive/Unused_Plugins/VST3/Universal Audio/UAD *.vst3 --> '/Library/Audio/P
 
 Latest UAD Software v12.0.0 Direct Download:
 ```
-<img width="745" height="466" alt="0  UAD Plugins Tool Main Menu" src="https://github.com/user-attachments/assets/5d0148d3-4463-4059-a9fd-62f73000092a" />
-<img width="745" height="466" alt="0  UAD Plugins Tool Main Menu" src="https://github.com/user-attachments/assets/fb9c24e3-a8d1-4c9a-b8dc-90ce7e6a4fea" />
 https://builds.uaudio.com/apps/uad2/UAD_12_0_0_602.pkg
 ```
 Previous UAD Software versions:
