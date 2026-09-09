@@ -27,7 +27,7 @@ Main Menu:
 </div>
 
 <div align="center">
-<img width="745" height="466" alt="0  UAD Plugins Tool Main Menu" src="https://github.com/user-attachments/assets/0b57eac1-9ab9-4bc3-b8d2-87ff9d673e7d" />
+<img width="757" height="480" alt="0  UAD Plugins Tool Main Menu" src="https://github.com/user-attachments/assets/bc2d0e8e-341c-4813-a929-20ce8e8f9410" />
 </div>
 
 <br>
